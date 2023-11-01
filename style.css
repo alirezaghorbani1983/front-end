@@ -1,14 +1,22 @@
 body {
-    background-color: lightblue;
+    background-color: #c5e9d8;
+        color: #181862;
 }
-h1 {
-    color: red;
+img {
+    width: 200px;
 }
 
-.myexplain {
-    background-color: lightblue;
+div {
+    background-color: #5885bb;
 }
-h2 {
-    font-size: 23px;
-    color: blueviolet;
+span {
+    color: #09741a;
+}
+
+article {
+    background-color: #d7d7d7;
+}
+
+header {
+    border-bottom: solid grey 1px;
 }
