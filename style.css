@@ -20,3 +20,9 @@ article {
 header {
     border-bottom: solid grey 1px;
 }
+nav {
+    padding: 10px;
+    background-color: yellow;
+    font-size: 35px;
+    text-align: center;
+}
