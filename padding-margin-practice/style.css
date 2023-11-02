@@ -21,7 +21,7 @@ div {
 }
 
 .red {
-    background-color: green;
+    background-color: red;
     padding: 30px;
     margin: 50px;
 }
@@ -34,7 +34,7 @@ div {
 }
 
 .blue {
-    background-color: green;
+    background-color: blue;
     padding: 30px;
     margin: 50px;
 }
