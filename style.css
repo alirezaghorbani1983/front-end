@@ -31,3 +31,11 @@ footer {
     background-color: black;
     color: white;
 }
+form {
+    min-width: 200px;
+    padding: 10px;
+}
+
+input {
+    display: block;
+}
